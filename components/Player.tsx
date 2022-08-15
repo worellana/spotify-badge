@@ -40,6 +40,12 @@ export default function Player(p: Props) {
 						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
 						font-size: 16px;
 					}
+          .track-info {
+            color: #fff;
+          }
+          .track-info:after {
+            background: linear-gradient(90deg, rgba(255, 255, 255, 0), rgb(2 2 2));
+          }
 					.frame-image {
 						display: flex;
 						justify-content: center;
