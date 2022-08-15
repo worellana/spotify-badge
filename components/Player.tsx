@@ -44,7 +44,7 @@ export default function Player(p: Props) {
             color: #fff;
           }
           .track-info:after {
-            background: linear-gradient(90deg, rgba(255, 255, 255, 0), rgb(2 2 2));
+            background: linear-gradient(90deg, rgba(255, 255, 255, 0), rgb(0 0 0));
           }
 					.frame-image {
 						display: flex;
