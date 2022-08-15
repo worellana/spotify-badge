@@ -10,7 +10,7 @@ export function RefreshIcon() {
 		>
 			<path
 				fill="none"
-				stroke="#000"
+				stroke="#fff"
 				stroke-linecap="round"
 				stroke-miterlimit="10"
 				stroke-width="2"
@@ -19,7 +19,7 @@ export function RefreshIcon() {
 			<path
 				d="M41.999 25c0 9.39-7.61 17-17 17s-17-7.61-17-17 7.61-17 17-17c5.011 0 9.516 2.167 12.627 5.616a17.103 17.103 0 011.683 2.203"
 				fill="none"
-				stroke="#000"
+				stroke="#fff"
 				stroke-linecap="round"
 				stroke-miterlimit="10"
 				stroke-width="2"
